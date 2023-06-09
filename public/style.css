@@ -1,0 +1,14 @@
+.col-4 {
+    margin-left: -70px;
+    height: 32rem;
+    background-color: rgb(204, 218, 204);
+}
+.col-4 a {
+    text-decoration: none;
+}
+.col-4 li{
+    list-style-type: none;
+}
+.card{
+    width: 50%;
+}
